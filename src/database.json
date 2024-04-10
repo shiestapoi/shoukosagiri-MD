@@ -1,0 +1,190 @@
+{
+  "users": {
+    "12135521010@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6281311761355@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 10
+    },
+    "6285762052846@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 10
+    },
+    "6282150305963@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 10
+    },
+    "62895613015371@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 10
+    },
+    "6281363484604@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 10
+    },
+    "6282296374835@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 10
+    },
+    "6283154521646@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 10
+    },
+    "6285787112672@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 10
+    },
+    "6285830092151@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 10
+    },
+    "6285340447070@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 10
+    },
+    "6281243243723@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 10
+    },
+    "6281259768717@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 10
+    },
+    "2349063702480@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 10
+    },
+    "6281356289551@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 10
+    },
+    "6285753424463@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 10
+    },
+    "628811423984@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 10
+    },
+    "6285695451539@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 10
+    },
+    "6288239630847@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 10
+    },
+    "6285954424682@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 10
+    },
+    "6282179438863@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    }
+  },
+  "chats": {
+    "12135521010@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363042648781633@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363023595198061@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "6287828497243-1621999930@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "6285737134572-1612303415@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "6281246322270-1630172636@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "6285830092151-1617610942@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363038804941735@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363039990688637@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363041853147648@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "6285732325935-1583240738@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363040625813303@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "6282179438863@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    }
+  },
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "settings": {
+    "12135521010@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false
+    },
+    "6285156084586@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "sticker": {}
+}
